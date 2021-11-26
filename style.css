@@ -1,0 +1,10 @@
+.body_Background {
+    background-image: url("bg1.jpg");
+  }
+  
+  canvas {
+    border-style: solid;
+    border-width: 2px;
+    background-color: white;
+  }
+  
